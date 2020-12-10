@@ -22,3 +22,14 @@ C:\Users\wail\Desktop\Cole\DAM2\M5-GIT\projecte\Jocs-main\FormMDI\FormMDI\obj\De
 C:\Users\wail\Desktop\Cole\DAM2\M5-GIT\projecte\Jocs-main\FormMDI\FormMDI\obj\Debug\FormMDI.csproj.CoreCompileInputs.cache
 C:\Users\wail\Desktop\Cole\DAM2\M5-GIT\projecte\Jocs-main\FormMDI\FormMDI\obj\Debug\FormMDI.exe
 C:\Users\wail\Desktop\Cole\DAM2\M5-GIT\projecte\Jocs-main\FormMDI\FormMDI\obj\Debug\FormMDI.pdb
+C:\Users\jandr\m5uf2\m5uf2_jocs_WailAlex-master\m5uf2_jocs_WailAlex-master\FormMDI\FormMDI\bin\Debug\FormMDI.exe.config
+C:\Users\jandr\m5uf2\m5uf2_jocs_WailAlex-master\m5uf2_jocs_WailAlex-master\FormMDI\FormMDI\bin\Debug\FormMDI.exe
+C:\Users\jandr\m5uf2\m5uf2_jocs_WailAlex-master\m5uf2_jocs_WailAlex-master\FormMDI\FormMDI\bin\Debug\FormMDI.pdb
+C:\Users\jandr\m5uf2\m5uf2_jocs_WailAlex-master\m5uf2_jocs_WailAlex-master\FormMDI\FormMDI\obj\Debug\FormMDI.csprojAssemblyReference.cache
+C:\Users\jandr\m5uf2\m5uf2_jocs_WailAlex-master\m5uf2_jocs_WailAlex-master\FormMDI\FormMDI\obj\Debug\FormMDI.FrmMain.resources
+C:\Users\jandr\m5uf2\m5uf2_jocs_WailAlex-master\m5uf2_jocs_WailAlex-master\FormMDI\FormMDI\obj\Debug\FormMDI.FrmPedraPaperTisora.resources
+C:\Users\jandr\m5uf2\m5uf2_jocs_WailAlex-master\m5uf2_jocs_WailAlex-master\FormMDI\FormMDI\obj\Debug\FormMDI.FrmPenjat.resources
+C:\Users\jandr\m5uf2\m5uf2_jocs_WailAlex-master\m5uf2_jocs_WailAlex-master\FormMDI\FormMDI\obj\Debug\FormMDI.Properties.Resources.resources
+C:\Users\jandr\m5uf2\m5uf2_jocs_WailAlex-master\m5uf2_jocs_WailAlex-master\FormMDI\FormMDI\obj\Debug\FormMDI.csproj.GenerateResource.cache
+C:\Users\jandr\m5uf2\m5uf2_jocs_WailAlex-master\m5uf2_jocs_WailAlex-master\FormMDI\FormMDI\obj\Debug\FormMDI.exe
+C:\Users\jandr\m5uf2\m5uf2_jocs_WailAlex-master\m5uf2_jocs_WailAlex-master\FormMDI\FormMDI\obj\Debug\FormMDI.pdb
